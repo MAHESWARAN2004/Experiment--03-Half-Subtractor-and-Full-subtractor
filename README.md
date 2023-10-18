@@ -1,4 +1,4 @@
-# Experiment--03-Half-Subtractor-and-Full-subtractor
+# Experiment--04-Half-Subtractor-and-Full-subtractor
 ## Implementation-of-Half-subtractor-and-Full-subtractor-circuit
 ## AIM:
 To design a half subtractor and full subtractor circuit and verify its truth table in Quartus using Verilog programming.
@@ -57,12 +57,12 @@ endmodule
 ```
 ##  RTL realization:
 
-## half subtracker:
+## half subtractor:
 
 ![image](https://github.com/22009011/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343461/8b34cb8c-86f8-4681-a231-8a9bc9ca3402)
 
 
-## full subtraker:
+## full subtractor:
 
 ![image](https://github.com/22009011/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343461/3584b25d-c0ac-432b-bfca-f72fd9d5da53)
 
@@ -70,11 +70,11 @@ endmodule
 
 ## Truthtable
 
-## half subtraker:
+## half subtractor:
 
 ![image](https://github.com/22009011/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343461/91902291-7ddc-4d55-bba5-098d3ccc9184)
 
-## full subtracker:
+## full subtractor:
 
 ![image](https://github.com/22009011/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343461/85c184ad-719a-4a51-91ce-3d5e9759790f)
 
@@ -82,12 +82,12 @@ endmodule
 
 ## output waveform:
 
-## half subtraker:
+## half subtractor:
 
 ![image](https://github.com/22009011/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343461/d0b61360-5b3b-45fd-9c51-f3e96ee17a62)
 
 
-## full subtraker:
+## full subtractor:
 
 ![image](https://github.com/22009011/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/118343461/f19e0dd2-94ff-4866-b5ae-6fd2f7171adf)
 
